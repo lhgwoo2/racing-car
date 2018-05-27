@@ -81,7 +81,7 @@ public int add(String text) {
 * 기본 뼈대 클래스는 다음 코드로부터 시작할 수 있다. 배열을 사용하는 것이 싫다면 ArrayList를 사용하는 것도 좋은 방법이다.
 
 ```
-public class RacingGame {
+public class core.RacingGame {
 private int time;
 private int[] carPositions = {0, 0, 0};
 
